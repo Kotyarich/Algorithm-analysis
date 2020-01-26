@@ -1,4 +1,0 @@
-/home/kotyarich/Dev/bmstu/aa/lab02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kotyarich/Dev/bmstu/aa/lab02/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kotyarich/Dev/bmstu/aa/lab02/cmake-build-debug/CMakeFiles/matrix_multiplication.dir
-/home/kotyarich/Dev/bmstu/aa/lab02/cmake-build-debug/CMakeFiles/test.dir

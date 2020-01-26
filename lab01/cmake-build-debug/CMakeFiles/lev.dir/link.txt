@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/lev.dir/main.cpp.o CMakeFiles/lev.dir/levenshtein_dist.cpp.o  -o lev 
