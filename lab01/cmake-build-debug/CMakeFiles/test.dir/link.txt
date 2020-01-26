@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/levenshtein_dist.cpp.o  -o test 
